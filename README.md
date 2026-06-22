@@ -1,7 +1,7 @@
 # Reaction-Time-game
 <br>
 <br>
-Main features
+Main features:
 <br>
 LED Chaser
 <br>
