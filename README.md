@@ -14,7 +14,7 @@ Sounds
 Randomised Target LEDs
 <br>
 <br>
-This is a Reaction time game that utilises a led chaser to imporve the reaction time of the user in a fun manner. Along with helping begginers learn key arduino and coding concepts. I built this Project to improve my arduino skills and understanding of basic c++. I could have built any other project too but I specificly built this as it would help me improve my reaction time and improve in my sport.  
+This is a Reaction time game that utilises a led chaser to imporve the reaction time of the user in a fun manner. Along with helping begginers learn key arduino and coding concepts. I built this Project to improve my arduino skills and understanding of basic c++. I could have built any other project too but I specificly built this as it would help me improve my reaction time and therefore improve in my sport.  
 <br>
 <br>
 This game utilises 8 LEDS (2 LEDS must be of the same color and another pair of LEDS can't be of the same color) , 8 220 OHM resistors, 2 Push buttons, 1 Potentiometer, 1 Piezo buzzer,  1 Arduino UNO and Some Jumper Wires. 
