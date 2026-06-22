@@ -26,6 +26,7 @@ Once the the arduino is powered on the LEDs connected to PINS 0 and 1 will light
 Making this project helped me learn how to use PORTD on an Arduino along with refining my skills in using the millis() function, varialbles and arrays
 along with utilising multiple loops and conditions. I also learnt how to set states and conditions in order to perform certain actions. 
 <br>
+<br>
 Some challenges I faced while making this project were that due to my over reliance on the the delay() function the code kept freezing which forced me to learnand 
 adopt the millis() function. While I strugled control the code and efficiently control user input forcing me to learn how to use bits and arrays along with 
 creating states and conditions to perform tasks and keep the game going without continouisly having to reset the arduino. I also struggeled to keep the game going 
