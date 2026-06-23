@@ -1,0 +1,10 @@
+
+## Major future improvements could be:
+
+- Adding a LCD or OLED screen to showcase user score or level and input outcome.
+- Adding more LEDS & placing them upwards while controling them with a shift register to improve complexity and progression.
+- Remembering the User's score or level using a SD card.
+- Adding a button to change the Chosen LED rather than having to reset the Arduino UNO.
+- Using a ESP 32 instead of the Arduino in order to connect the project to a online leaderboard.
+- Automaticly changing the Chosen LED after some repititions to avoid users from becoming used to the pattern.
+- Randomising the patern in which the 3d LED chaser moves after a few repitions. 
