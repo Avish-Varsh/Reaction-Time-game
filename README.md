@@ -22,7 +22,9 @@
 - Randomised Target LEDs
 <br>
 <br>
+
 ## Overview:
+
 <br>
 This is a Reaction time game that utilises a led chaser to imporve the reaction time of the user in a fun manner. Along with helping begginers learn key arduino and coding concepts. I built this Project to improve my arduino skills and understanding of basic c++. I could have built any other project too but I specificly built this as it would help me improve my reaction time and therefore improve in my sport.  
 <br>
@@ -33,7 +35,10 @@ This is a Reaction time game that utilises a led chaser to imporve the reaction 
 Once the the arduino is powered on the LEDs connected to PINS 0 and 1 will light up to show that there is power. After both of these LEDs turn of a random LED will turn on which the user will have to catch in the LED chaser. Once the user remembers the LED they must press the start button causing the chaser to start. The user the use the potentiometer to control the speed of the chaser. They user will have to use the catch button to catch the LED. Depending on the outcome either a losing or winning sequence will play. The user can continue playing on the same LED and also change the difficulty using the Potentiometer, but they can also change the LED by reseting the arduino UNO.
 <br>
 <br>
-## Lessons and Challenges
+
+## Lessons and Challenges:
+
+<br>
 Making this project helped me learn how to use PORTD on an Arduino along with refining my skills in using the millis() function, varialbles and arrays
 along with utilising multiple loops and conditions. I also learnt how to set states and conditions in order to perform certain actions. 
 <br>
