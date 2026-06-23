@@ -1,8 +1,11 @@
 # Reaction-Time-game
 <br>
 <br>
+
 ## Components used:
+
 |Name|Quantity|
+---------------
 |LED|4 pairs(each pair must be a seperate color|
 |Potentiometer| 1|
 |Push Button|2|
