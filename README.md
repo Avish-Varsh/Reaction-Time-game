@@ -4,15 +4,17 @@
 
 ## Components used:
 
-|Name|Quantity|
----------------
-|LED|4 pairs(each pair must be a seperate color|
-|Potentiometer| 1|
-|Push Button|2|
-|Piezo buzzer|1|
-|220 Ω Resistors|8|
-|Connecting wires|As required|
-|Arduino Uno|1|
+
+| Name | Quantity |
+| --- | --- |
+| LED | 4 pairs (each pair must be a separate color) |
+| Potentiometer | 1 |
+| Push Button | 2 |
+| Piezo buzzer | 1 |
+| 220 Ω Resistors | 8 |
+| Connecting wires | As required |
+| Arduino Uno | 1 |
+
 
 ## Main features:
 - LED Chaser
